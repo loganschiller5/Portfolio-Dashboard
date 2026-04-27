@@ -1,9 +1,5 @@
 streamlit
-yfinance 
-pandas 
-numpy 
-plotly.graph_objects 
-plotly.express 
-make_subplots
-datetime, timedelta
-warnings
+yfinance
+pandas
+numpy
+plotly
